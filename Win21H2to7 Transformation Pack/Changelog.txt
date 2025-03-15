@@ -1,0 +1,95 @@
+3.5.4 - "I don't know how to name this release. so its official name is: AngelBruni is awesome. [Please use the version number to indicate which build you have issues on]"
+
+- Added Accent Color Sync (Thx Mr._Lechkar!)
+- Added Logon/Logoff/Shutdown sounds (Thx Toru the Red Fox!)
+- Added Network Control Panel changes [If you have both Restore control panel and Restore Legacy 7 Network enabled]. (From CPL Restoration 4.0. thx brawllux!)
+- Fixed AWM settings having broken inactive state buttons.
+- Fixed Windows 7 VAN pnidui not having the 5 bar state icon.
+- Fixed Windhawk not updating if updating the transformation pack.
+- Fixed CPL Reborn opening "Display" instead of "System Properties" by clicking "Properties" inside Computer. (Thx Aubymori & brawllux!)
+- Fixed "Windows DVD Maker" even more. (It should be more functional than previously.)
+- Removed "Lock screen" from UWP settings if you enabled the Windows 7 login screen option during the installer.
+- Removed "En-GB" language files from the main 21H2to7 installer. (The language files will be migrated to the language pack installer)
+- Replaced AHK URI Redirect with VBS URI Redirect (Thx brawllux!)
+- Replaced "(Only for En-US)" with a "Partially Translated" warning.
+- Replaced "Disk Pie Chart" with "Disk Pie Chart - Antialiased edition" (Thx teknixstuff!)
+- Replaced "Recovery" in Control Panel. (Thx brawllux!)
+- Recompiled all the Windhawk mods to be WH 1.5.1 mods.
+
+_____________________________________
+
+Older releases of the transformation pack:
+_____________________________________
+
+3.5.3 - "Ciao!"
+
+- Added Non-(En-US) Language support for certain components. (21H2to7 Specific languages pack can be found here: https://github.com/ImSwordQueen/Win10to7LanguagePacks/)
+- Added Compression's blue text.
+- Added Windows Easy Transfer.
+- Disabled "Meet Now" and "Copilot" buttons by default.
+- Fixed Language Switcher using the wrong texture.
+- Fixed Win+X for SIB++.
+- Fixed "Windows DVD Maker". Now it should open fine.
+- Modified the "Alt+F4" Shutdown screen to be more 7 like.
+- Replaced Performance Center with 8250's variant.
+- Replaced the help and support contents with an earlier version of Windows 8.
+- Removed 7+ Taskbar Tweaker.
+- Removed aeropeek glass (Would conflict with main windows).
+- Updated Windhawk to 1.5.1.
+- Updated Windhawk mods.
+_____________________________________
+
+_____________________________________
+3.5.2 - "Fly high"
+
+- Replaced "Windows 7 Caption Button Mod" with Aero Window Manager.
+- Replaced DWMBlurGlass with OpenGlass.
+- Fixed some theme issues.
+- Fixed "Change Win+X Menu to Windows 7's layout" file explorer option.
+- Fixed options on Getting Started not being redirected properly.
+- Fixed the taskbar going black in certain scenarios. (DWMBlurGlass bug. Fixed in OpenGlass.)
+- Fixed Caption buttons not resizing if DWM crashes. (Aero Window Manager will rehook if DWM crashes now.)
+- Added Basic Themer (For Secure Desktop only).
+- Added Windows 7 Accessibility tools.
+- Added ConsoleLogonHook.
+- Added "Default themes" in personalization.
+- Added Stable "Glow"
+- Added support for library headers in Dark7.
+- Added Performance CPL in "Revert Control Panel Redirects"
+- Added VCRedist 2015-2022 installer. (Needed for Aero Window Manager)
+- Added Thick borders.
+- Added Embedded-only background for POSReady branding in setup and ConsoleLogonHook.
+- Added 7+ Taskbar Tweaker.
+- Readded Dark mode in Getting Started. (Previously was added in 1809to7 but forgot to readd it later.)
+- Replaced cold-patched StartIsBack DLL with StartIsBack++ Tweaker.
+- Replaced some strings in the Personalization panel.
+- Removed Canada and United Kingdom from the default themes pre-included in 21H2to7. (They will be included in the Mega extras folder.)
+- Removed "No Glow" builds. (OpenGlass is more stable with them so it is no longer needed.)
+- Replaced some lockscreen wallpapers.
+- Updated Credits.
+- Updated all the included WindHawk mods.
+- Added a license.
+
+3.5.2.2 - ""
+
+- Fixed Aero Window Manager task ending itself if on battery power.
+- Fixed OpenGlass task ending itself after 3 days.
+_____________________________________
+
+_____________________________________
+3.5.1 - "Small but big fixes"
+
+- Fixed a bug with SIB++ where it would delete the user preferences when you upgraded the transformation pack. (Issues #6)
+- Fixed vivetool not re-enabling the ID for settings after uninstallation.
+- Added cleanup for MUICache so Windows will use new strings for everything.
+- Added custom OneDrive icon and folder icon if the user has OneDrive installed.
+- Removed Legacy keyboard switcher as it acted strangely in certain scenarios.
+- Removed Hardcoded "Computer". Now it should only change name if you haven't renamed your computer shortcut.
+- Replaced the "Desktop" icon in Favorites with the 7 counterpart.
+- Added a warning symbol next to options that are considered "Somewhat broken" with a tooltip that explains the issue with that specific option.
+- Fixed hard coded coloring for one of the options in the final section of setup.
+(From 3.5 HOTFIX) - Fixed theme(s) caption buttons using the wrong texture.
+
+3.5 - " "
+
+Initial Release for 21H2to7.

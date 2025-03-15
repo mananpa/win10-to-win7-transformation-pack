@@ -1,0 +1,72 @@
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShellCustomizer\bin\x64\Release\Customizer.exe
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.csproj.AssemblyReference.cache
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.MainWindow.resources
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.Properties.Resources.resources
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.csproj.GenerateResource.cache
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.csproj.CoreCompileInputs.cache
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShellCustomizer\obj\x64\Release\Customizer.exe
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.Form2.resources
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.Form3.resources
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.Form4.resources
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.Form5.resources
+C:\Users\Nicola\Desktop\old cls\LogonShellCustomizer\bin\x64\Release\Customizer.exe
+C:\Users\Nicola\Desktop\old cls\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.csproj.AssemblyReference.cache
+C:\Users\Nicola\Desktop\old cls\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicola\Desktop\old cls\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.MainWindow.resources
+C:\Users\Nicola\Desktop\old cls\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.Form2.resources
+C:\Users\Nicola\Desktop\old cls\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.Form3.resources
+C:\Users\Nicola\Desktop\old cls\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.Form4.resources
+C:\Users\Nicola\Desktop\old cls\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.Form5.resources
+C:\Users\Nicola\Desktop\old cls\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.Properties.Resources.resources
+C:\Users\Nicola\Desktop\old cls\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.csproj.GenerateResource.cache
+C:\Users\Nicola\Desktop\old cls\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.csproj.CoreCompileInputs.cache
+C:\Users\Nicola\Desktop\old cls\LogonShellCustomizer\obj\x64\Release\Customizer.exe
+C:\Users\Nicola\Desktop\Classic Logon Shell\LogonShellCustomizer\bin\x64\Release\Customizer.exe
+C:\Users\Nicola\Desktop\Classic Logon Shell\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.csproj.AssemblyReference.cache
+C:\Users\Nicola\Desktop\Classic Logon Shell\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicola\Desktop\Classic Logon Shell\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.MainWindow.resources
+C:\Users\Nicola\Desktop\Classic Logon Shell\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.Form2.resources
+C:\Users\Nicola\Desktop\Classic Logon Shell\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.Form3.resources
+C:\Users\Nicola\Desktop\Classic Logon Shell\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.Form4.resources
+C:\Users\Nicola\Desktop\Classic Logon Shell\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.Form5.resources
+C:\Users\Nicola\Desktop\Classic Logon Shell\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.Properties.Resources.resources
+C:\Users\Nicola\Desktop\Classic Logon Shell\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.csproj.GenerateResource.cache
+C:\Users\Nicola\Desktop\Classic Logon Shell\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.csproj.CoreCompileInputs.cache
+C:\Users\Nicola\Desktop\Classic Logon Shell\LogonShellCustomizer\obj\x64\Release\Customizer.exe
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShellCustomizer\bin\x64\Release\Customizer.exe
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.MainWindow.resources
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.Form2.resources
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.Form3.resources
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.Form4.resources
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.Form5.resources
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShellCustomizer\obj\x64\Release\Customizer.exe
+C:\Users\Administrator\Documents\GitHub\CLS2ForkXP\LogonShellCustomizer\bin\x64\Release\Customizer.exe
+C:\Users\Administrator\Documents\GitHub\CLS2ForkXP\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\CLS2ForkXP\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\GitHub\CLS2ForkXP\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.MainWindow.resources
+C:\Users\Administrator\Documents\GitHub\CLS2ForkXP\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.Form2.resources
+C:\Users\Administrator\Documents\GitHub\CLS2ForkXP\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.Form3.resources
+C:\Users\Administrator\Documents\GitHub\CLS2ForkXP\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.Form4.resources
+C:\Users\Administrator\Documents\GitHub\CLS2ForkXP\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.Form5.resources
+C:\Users\Administrator\Documents\GitHub\CLS2ForkXP\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\CLS2ForkXP\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\GitHub\CLS2ForkXP\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\CLS2ForkXP\LogonShellCustomizer\obj\x64\Release\Customizer.exe
+C:\Users\Dalto\Desktop\CLS2ForkXP-main\LogonShellCustomizer\bin\x64\Release\Customizer.exe
+C:\Users\Dalto\Desktop\CLS2ForkXP-main\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.csproj.AssemblyReference.cache
+C:\Users\Dalto\Desktop\CLS2ForkXP-main\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dalto\Desktop\CLS2ForkXP-main\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.MainWindow.resources
+C:\Users\Dalto\Desktop\CLS2ForkXP-main\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.Form2.resources
+C:\Users\Dalto\Desktop\CLS2ForkXP-main\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.Form3.resources
+C:\Users\Dalto\Desktop\CLS2ForkXP-main\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.Form4.resources
+C:\Users\Dalto\Desktop\CLS2ForkXP-main\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.Form5.resources
+C:\Users\Dalto\Desktop\CLS2ForkXP-main\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.Properties.Resources.resources
+C:\Users\Dalto\Desktop\CLS2ForkXP-main\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.csproj.GenerateResource.cache
+C:\Users\Dalto\Desktop\CLS2ForkXP-main\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.csproj.CoreCompileInputs.cache
+C:\Users\Dalto\Desktop\CLS2ForkXP-main\LogonShellCustomizer\obj\x64\Release\Customizer.exe

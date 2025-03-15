@@ -1,0 +1,3 @@
+This is only for Windows 10, and only the newer versions of Windows 10 that have themecpl.dll.mun in the SystemResources folder. If your Windows 10 does NOT have this, delete this pack.
+
+I could not get the "Frost" colour square (the very last white one) to give the actual white colour and not 10's original auto-colour function. However, all other colours should work.

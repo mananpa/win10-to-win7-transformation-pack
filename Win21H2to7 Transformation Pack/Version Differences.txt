@@ -1,0 +1,4 @@
+Version differences between packs:
+
+Vanilla - Has all features
+Safe (Not yet released) - Patches less files as much as possible and would survive updates more safely than vanilla. Might have less features due to it.

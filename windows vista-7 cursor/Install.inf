@@ -1,0 +1,57 @@
+; windows7 for Windows XP.
+; Win 2000/XP windows7 Cursor Scheme installation file.
+
+[Version]
+signature="$CHICAGO$"
+
+[DefaultInstall]
+CopyFiles = Scheme.Cur, Scheme.Txt
+AddReg    = Scheme.Reg
+
+[DestinationDirs]
+Scheme.Cur = 10,"%CUR_DIR%"
+Scheme.Txt = 10,"%CUR_DIR%"
+
+[Scheme.Reg]
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%work%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%cross%,%10%\%CUR_DIR%\%Text%,%10%\%CUR_DIR%\%Hand%,%10%\%CUR_DIR%\%unavailiable%,%10%\%CUR_DIR%\%Vert%,%10%\%CUR_DIR%\%Horz%,%10%\%CUR_DIR%\%Dgn1%,%10%\%CUR_DIR%\%Dgn2%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%alternate%,%10%\%CUR_DIR%\%link%"
+
+; -- Common Information
+
+[Scheme.Cur]
+windows7_arrow.cur
+windows7_helpsel.cur
+windows7_working.ani
+windows7_busy.ani
+windows7_select.cur
+windows7_unavail.cur
+windows7_ns.cur
+windows7_ew.cur
+windows7_nwse.cur
+windows7_nesw.cur
+windows7_move.cur
+windows7_link.cur
+windows7_prec.cur
+windows7_pen.cur
+windows7_alt.cur
+
+[Scheme.Txt]
+Readme.txt
+
+[Strings]
+CUR_DIR       = "Cursors\Aero Cursors"
+SCHEME_NAME   = "windows7 Cursors"
+pointer       = "windows7_arrow.cur"
+help          = "windows7_helpsel.cur"
+work          = "windows7_working.ani"
+busy          = "windows7_busy.ani"
+text          = "windows7_select.cur"
+unavailiable  = "windows7_unavail.cur"
+vert          = "windows7_ns.cur"
+horz          = "windows7_ew.cur"
+dgn1          = "windows7_nwse.cur"
+dgn2          = "windows7_nesw.cur"
+move          = "windows7_move.cur"
+link          = "windows7_link.cur"
+cross         = "windows7_prec.cur"
+hand          = "windows7_pen.cur"
+alternate     = "windows7_alt.cur"

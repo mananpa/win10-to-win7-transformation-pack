@@ -1,0 +1,642 @@
+Starting Setup
+Selected Source: D:\19044.4529\19044.4529.240607-0728.21H2_RELEASE_SVC_PROD1_CLIENTMULTI_X64FRE_ES-MX\sources\install.wim
+Source Details: Windows 10 IoT Enterprise  x64 es-MX (Build 10.0.19044.4529)
+WimLIB version: 1.13.2
+Current System: 18362 x64 WinNTSetup v.4.2 x64
+Command Line: "Y:\Programs\WinNTSetup\WinNTSetup_x64.exe" 
+Boot partition: Z:
+	GPT Partition style
+	Disk number: 0
+	Partition number: 1
+	Partition Alignment: Align 1024 K
+	Advanced Format Disk: 1
+	Virtual device: 0
+	Mounted VHD: 0
+System partition: C:
+	GPT Partition style
+	Disk number: 0
+	Partition number: 3
+	Partition Alignment:  Align 2048 K
+	Advanced Format Disk: 1
+	Virtual device: 0
+	Mounted VHD: 0
+	Advanced Format Disk: 1
+Found a Boot Configuration Store on sysdrive and unloading it.
+Found a uefi Boot Configuration Store on sysdrive and unloading it.
+Start applying WIM Image.
+Successfully applied WIM Image. (Operation took: 50 sec)
+
+Integrate Drivers using Deployment Image Servicing and Management tool version: 10.0.19041.3636 (WinBuild.160101.0800)
+Driver path: D:\drv2
+Dism return code: 0
+
+	abletonpushks.inf_amd64_7cf1b15994c348b1\abletonpushks.inf                   the driver package was successfully installed.
+	bertreader.inf_amd64_85bd0a42a2d05366\bertreader.inf                         the driver package was successfully installed.
+	bhtsddr.inf_amd64_221683b823a1a1e1\bhtsddr.inf                               the driver package was successfully installed.
+	cdc-acm.inf_amd64_7c173df05350bded\cdc-acm.inf                               the driver package was successfully installed.
+	cdc-acm.inf_amd64_bd389e6c168e92ba\cdc-acm.inf                               the driver package was successfully installed.
+	dal.inf_amd64_b5484efd38adbe8d\dal.inf                                       the driver package was successfully installed.
+	heci.inf_amd64_6b6e8cc42a3d1f09\heci.inf                                     the driver package was successfully installed.
+	heci.inf_amd64_c22251d5ea82b3c3\heci.inf                                     the driver package was successfully installed.
+	hpippstub.inf_amd64_5c35314ac741d81b\hpippstub.inf                           the driver package was successfully installed.
+	hpmtpstub.inf_amd64_640cb2abf5b9ef67\hpmtpstub.inf                           the driver package was successfully installed.
+	hponedriver_spd_v4_x64.inf_amd64_c89f7040dc264904\hponedriver_spd_v4_x64.inf the driver package was successfully installed.
+	hpreststub.inf_amd64_1df4539761c5f597\hpreststub.inf                         the driver package was successfully installed.
+	hpreststub.inf_amd64_c47a534294b25e50\hpreststub.inf                         the driver package was successfully installed.
+	hpwinusbstub.inf_amd64_3cfdc7ff6a81dadc\hpwinusbstub.inf                     the driver package was successfully installed.
+	hpwinusbstub.inf_amd64_62d7b906a5aee8bc\hpwinusbstub.inf                     the driver package was successfully installed.
+	hpygid25_v4.inf_amd64_a718a91cefda9306\hpygid25_v4.inf                       the driver package was successfully installed.
+	hpygid31_v4.inf_amd64_23382921ab214353\hpygid31_v4.inf                       the driver package was successfully installed.
+	iaahcic.inf_amd64_48b2da6fcb98d139\iaahcic.inf                               the driver package was successfully installed.
+	ialpss2_gpio2_tgl.inf_amd64_2546dafe2183e972\ialpss2_gpio2_tgl.inf           the driver package was successfully installed.
+	ialpss2_i2c_tgl.inf_amd64_1308f85f1b0adf27\ialpss2_i2c_tgl.inf               the driver package was successfully installed.
+	ialpss2_spi_tgl.inf_amd64_fc1ed3a5a1d514f2\ialpss2_spi_tgl.inf               the driver package was successfully installed.
+	ialpss2_uart2_tgl.inf_amd64_cd8c3a141c1b1284\ialpss2_uart2_tgl.inf           the driver package was successfully installed.
+	iclsclient.inf_amd64_76523213b78d9046\iclsclient.inf                         the driver package was successfully installed.
+	idmwfp.inf_amd64_8b0ebbc2b4585464\idmwfp.inf                                 the driver package was successfully installed.
+	iigd_dch.inf_amd64_dd8b4562122476b6\iigd_dch.inf                             the driver package was successfully installed.
+	m0001.inf_amd64_3e5db56375177d12\m0001.inf                                   the driver package was successfully installed.
+	mewmiprov.inf_amd64_cad1db73e8c782a6\mewmiprov.inf                           the driver package was successfully installed.
+	moser.inf_amd64_7ecca89b25541f2b\moser.inf                                   the driver package was successfully installed.
+	motccgp.inf_amd64_4b9727324084cb64\motccgp.inf                               the driver package was successfully installed.
+	motport.inf_amd64_60e0efb433e6dc9e\motport.inf                               the driver package was successfully installed.
+	motusbdevice.inf_amd64_8c34512a56a7136d\motusbdevice.inf                     the driver package was successfully installed.
+	motusbser.inf_amd64_5e8b9b5aea1768ec\motusbser.inf                           the driver package was successfully installed.
+	netrtwlanu.inf_amd64_2f8b1c3607b0fc3e\netrtwlanu.inf                         the driver package was successfully installed.
+	nodrv.inf_amd64_687a0efbf88eac90\nodrv.inf                                   the driver package was successfully installed.
+	prnhpcl1.inf_amd64_913b313ca0c5b8c6\prnhpcl1.inf                             the driver package was successfully installed.
+	prnms001.inf_amd64_8bc1bda6cf47380c\prnms001.inf                             the driver package was successfully installed.
+	prnms001.inf_amd64_cf4b76d3d4b6330c\prnms001.inf                             the driver package was successfully installed.
+	prnms006.inf_amd64_c3bdcb6fc975b614\prnms006.inf                             the driver package was successfully installed.
+	prnms009.inf_amd64_3107874c7db0aa5a\prnms009.inf                             the driver package was successfully installed.
+	prnms009.inf_amd64_97613c6f44514bba\prnms009.inf                             the driver package was successfully installed.
+	prnms009.inf_amd64_a7412a554c9bc1fd\prnms009.inf                             the driver package was successfully installed.
+	rccfg.inf_amd64_800986db43f96003\rccfg.inf                                   the driver package was successfully installed.
+	rdrvmp.inf_amd64_64ebf537f8ba35b1\rdrvmp.inf                                 the driver package was successfully installed.
+	rt640x64.inf_amd64_6ffb53ca01700bf3\rt640x64.inf                             the driver package was successfully installed.
+	rtkfilter.inf_amd64_69d839df1ef060fb\rtkfilter.inf                           the driver package was successfully installed.
+	stexstpt.inf_amd64_84f26642b5a3d1f6\stexstpt.inf                             the driver package was successfully installed.
+	tigerlakepch-hsystem.inf_amd64_cef306a739575d10\tigerlakepch-hsystem.inf     the driver package was successfully installed.
+	usb2ser_win764.inf_amd64_f1b86cbb13d471b8\usb2ser_win764.inf                 the driver package was successfully installed.
+	vboxnetadp6.inf_amd64_e4681b06b50d140c\vboxnetadp6.inf                       the driver package was successfully installed.
+	vboxnetlwf.inf_amd64_f7173b8d2ae4b6e5\vboxnetlwf.inf                         the driver package was successfully installed.
+	vboxusb.inf_amd64_05244e62af87a9ac\vboxusb.inf                               the driver package was successfully installed.
+	vboxusb.inf_amd64_6389ef9a2a816fc1\vboxusb.inf                               the driver package was successfully installed.
+	viostor.inf_amd64_aa6c91b5db55ab62\viostor.inf                               the driver package was successfully installed.
+	vmci.inf_amd64_68ed49469341f563\vmci.inf                                     the driver package was successfully installed.
+	xtucomponent.inf_amd64_98dcbf2de4d7f44b\xtucomponent.inf                     the driver package was successfully installed.
+
+Loaded offline registry from: C:\Windows\System32\config
+Successfully loaded offline registry
+Fixing Mountpoints
+	Writing driveletter mountpoint of new system drive: \DosDevices\C: --> 0x444D494F3A49443AEB900A009006DC80E8FED701D6211500
+
+Disabled Hiberboot!
+Successfully save offline Registry!
+
+Creating boot files with BCDBoot.exe: C:\Windows /s Z: /l es-MX /f ALL
+bcdboot version: 10.0.18362.1 (WinBuild.160101.0800)
+bcdboot cmdline: C:\Windows /s Z: /l es-MX /f ALL
+bcdboot Return : 0
+
+Archivos de arranque creados correctamente.
+
+
+bcdedit version: 10.0.18362.1 (WinBuild.160101.0800)
+bcdedit cmdline: -store Z:\Boot\BCD -set {default} description "Windows 10 IoTEnterprise"
+bcdedit Return : 0
+
+La operaci¢n se complet¢ correctamente.
+
+
+bcdedit version: 10.0.18362.1 (WinBuild.160101.0800)
+bcdedit cmdline: -store Z:\EFI\Microsoft\Boot\BCD -set {default} description "Windows 10 IoTEnterprise"
+bcdedit Return : 0
+
+La operaci¢n se complet¢ correctamente.
+
+
+
+Final BCD store: Z:\Boot\BCD
+
+Administrador de arranque de Windows
+----------------------------------
+Identificador           {bootmgr}
+device                  partition=Z:
+description             Windows Boot Manager
+locale                  es-MX
+inherit                 {globalsettings}
+default                 {default}
+resumeobject            {86d98251-a987-11ef-9a05-00e04cd1049f}
+displayorder            {default}
+toolsdisplayorder       {memdiag}
+timeout                 30
+
+Cargador de arranque de Windows
+-----------------------------
+Identificador           {default}
+device                  partition=C:
+path                    \Windows\system32\winload.exe
+description             Windows 10 IoTEnterprise
+locale                  es-MX
+inherit                 {bootloadersettings}
+allowedinmemorysettings 0x15000075
+osdevice                partition=C:
+systemroot              \Windows
+resumeobject            {86d98251-a987-11ef-9a05-00e04cd1049f}
+nx                      OptIn
+bootmenupolicy          Standard
+
+Reanudar tras hibernaci¢n
+-------------------------
+Identificador           {002d0fe2-a950-11ef-881a-00e04cd1049f}
+device                  partition=C:
+path                    \Windows\system32\winresume.exe
+description             Windows Resume Application
+locale                  es-MX
+inherit                 {resumeloadersettings}
+allowedinmemorysettings 0x15000075
+filepath                \hiberfil.sys
+bootmenupolicy          Standard
+
+Reanudar tras hibernaci¢n
+-------------------------
+Identificador           {29ed26da-a98a-11ef-b3d4-00e04cd1049f}
+device                  partition=C:
+path                    \Windows\system32\winresume.exe
+description             Windows Resume Application
+locale                  en-US
+inherit                 {resumeloadersettings}
+allowedinmemorysettings 0x15000075
+filepath                \hiberfil.sys
+bootmenupolicy          Standard
+
+Reanudar tras hibernaci¢n
+-------------------------
+Identificador           {3a21de32-a2fc-11ef-bbf4-00e04cd1049f}
+device                  partition=C:
+path                    \Windows\system32\winresume.exe
+description             Windows Resume Application
+locale                  en-US
+inherit                 {resumeloadersettings}
+allowedinmemorysettings 0x15000075
+filepath                \hiberfil.sys
+bootmenupolicy          Standard
+
+Reanudar tras hibernaci¢n
+-------------------------
+Identificador           {7e56cc8d-a2ff-11ef-bbf4-00e04cd1049f}
+device                  partition=C:
+path                    \Windows\system32\winresume.exe
+description             Windows Resume Application
+locale                  en-US
+inherit                 {resumeloadersettings}
+allowedinmemorysettings 0x15000075
+filepath                \hiberfil.sys
+bootmenupolicy          Standard
+
+Reanudar tras hibernaci¢n
+-------------------------
+Identificador           {86d98251-a987-11ef-9a05-00e04cd1049f}
+device                  partition=C:
+path                    \Windows\system32\winresume.exe
+description             Windows Resume Application
+locale                  es-MX
+inherit                 {resumeloadersettings}
+allowedinmemorysettings 0x15000075
+filepath                \hiberfil.sys
+bootmenupolicy          Standard
+
+Reanudar tras hibernaci¢n
+-------------------------
+Identificador           {ff669a1e-a953-11ef-9c35-00e04cd1049f}
+device                  partition=C:
+path                    \Windows\system32\winresume.exe
+description             Windows Resume Application
+locale                  en-US
+inherit                 {resumeloadersettings}
+allowedinmemorysettings 0x15000075
+filepath                \hiberfil.sys
+bootmenupolicy          Standard
+
+Herramienta de comprobaci¢n de memoria de Windows
+-------------------------------------------------
+Identificador           {memdiag}
+device                  partition=Z:
+path                    \boot\memtest.exe
+description             Herramienta de diagn¢stico de memoria de Windows
+locale                  es-MX
+inherit                 {globalsettings}
+badmemoryaccess         Yes
+
+Configuraci¢n de EMS
+--------------------
+Identificador           {emssettings}
+bootems                 No
+
+Configuraci¢n del depurador
+---------------------------
+Identificador           {dbgsettings}
+debugtype               Local
+
+Defectos de RAM
+---------------
+Identificador           {badmemory}
+
+Configuraci¢n global
+--------------------
+Identificador           {globalsettings}
+inherit                 {dbgsettings}
+                        {emssettings}
+                        {badmemory}
+
+Configuraci¢n del cargador de arranque
+------------------------------------
+Identificador           {bootloadersettings}
+inherit                 {globalsettings}
+                        {hypervisorsettings}
+
+Configuraci¢n de hipervisor
+-------------------
+Identificador           {hypervisorsettings}
+hypervisordebugtype     Serial
+hypervisordebugport     1
+hypervisorbaudrate      115200
+
+Reanudar la configuraci¢n del cargador
+--------------------------------------
+Identificador           {resumeloadersettings}
+inherit                 {globalsettings}
+
+
+Final EFI BCD store: Z:\EFI\Microsoft\Boot\BCD
+
+Administrador de arranque de firmware
+-----------------------------------
+Identificador           {fwbootmgr}
+displayorder            {bootmgr}
+                        {1e391bb2-a66e-11ef-8bf9-806e6f6e6963}
+                        {8a7aefd8-a2ff-11ef-8bd1-806e6f6e6963}
+                        {e8943387-a66d-11ef-8bf8-806e6f6e6963}
+                        {8a7aefcc-a2ff-11ef-8bd1-806e6f6e6963}
+                        {8a7aefd2-a2ff-11ef-8bd1-806e6f6e6963}
+                        {8a7aefd0-a2ff-11ef-8bd1-806e6f6e6963}
+                        {8a7aefd1-a2ff-11ef-8bd1-806e6f6e6963}
+                        {8a7aefd4-a2ff-11ef-8bd1-806e6f6e6963}
+                        {8a7aefd5-a2ff-11ef-8bd1-806e6f6e6963}
+                        {8a7aefd6-a2ff-11ef-8bd1-806e6f6e6963}
+                        {8a7aefd7-a2ff-11ef-8bd1-806e6f6e6963}
+timeout                 2
+
+Administrador de arranque de Windows
+----------------------------------
+Identificador           {98fbcdc1-a2ff-11ef-8bd1-9ef9a24486ad}
+device                  partition=Z:
+path                    \EFI\HACKBGRT\LOADER.EFI
+description             HackBGRT
+
+Administrador de arranque de Windows
+----------------------------------
+Identificador           {bootmgr}
+device                  partition=Z:
+path                    \EFI\Microsoft\Boot\bootmgfw.efi
+description             Windows Boot Manager
+locale                  es-MX
+inherit                 {globalsettings}
+default                 {default}
+resumeobject            {86e7d008-a987-11ef-9a05-00e04cd1049f}
+displayorder            {default}
+                        {4878e91c-a3cb-11ef-8be2-0013ef2a3dbe}
+toolsdisplayorder       {memdiag}
+timeout                 30
+
+Aplicaci¢n de firmware (101fffff)
+---------------------------------
+Identificador           {1e391bb2-a66e-11ef-8bf9-806e6f6e6963}
+device                  partition=W:
+path                    \EFI\MICROSOFT\BOOT\BOOTMGFW.EFI
+description             Windows Boot Manager
+
+Aplicaci¢n de firmware (101fffff)
+---------------------------------
+Identificador           {8a7aefcc-a2ff-11ef-8bd1-806e6f6e6963}
+description             UEFI: Built-in EFI Shell
+
+Aplicaci¢n de firmware (101fffff)
+---------------------------------
+Identificador           {8a7aefd0-a2ff-11ef-8bd1-806e6f6e6963}
+description             Hard Drive
+
+Aplicaci¢n de firmware (101fffff)
+---------------------------------
+Identificador           {8a7aefd1-a2ff-11ef-8bd1-806e6f6e6963}
+description             NVME
+
+Aplicaci¢n de firmware (101fffff)
+---------------------------------
+Identificador           {8a7aefd2-a2ff-11ef-8bd1-806e6f6e6963}
+description             UEFI: Built-in EFI Shell
+
+Aplicaci¢n de firmware (101fffff)
+---------------------------------
+Identificador           {8a7aefd4-a2ff-11ef-8bd1-806e6f6e6963}
+description             USB
+
+Aplicaci¢n de firmware (101fffff)
+---------------------------------
+Identificador           {8a7aefd5-a2ff-11ef-8bd1-806e6f6e6963}
+description             Hard Drive
+
+Aplicaci¢n de firmware (101fffff)
+---------------------------------
+Identificador           {8a7aefd6-a2ff-11ef-8bd1-806e6f6e6963}
+description             NVME
+
+Aplicaci¢n de firmware (101fffff)
+---------------------------------
+Identificador           {8a7aefd7-a2ff-11ef-8bd1-806e6f6e6963}
+description             USB
+
+Aplicaci¢n de firmware (101fffff)
+---------------------------------
+Identificador           {8a7aefd8-a2ff-11ef-8bd1-806e6f6e6963}
+device                  partition=I:
+description             UEFI: KingstonDataTraveler 3.0PMAP, Partition 2
+
+Aplicaci¢n de firmware (101fffff)
+---------------------------------
+Identificador           {e8943387-a66d-11ef-8bf8-806e6f6e6963}
+device                  partition=J:
+description             UEFI: KingstonDataTraveler 3.00000, Partition 2
+
+Cargador de arranque de Windows
+-----------------------------
+Identificador           {1a5564fb-a3c3-11ef-9986-0213ef1a3dbd}
+device                  ramdisk=[F:]\Recovery\WindowsRE\Winre.wim,{1a5564fc-a3c3-11ef-9986-0213ef1a3dbd}
+path                    \windows\system32\winload.efi
+description             Windows Recovery Environment
+locale                  es-MX
+inherit                 {bootloadersettings}
+displaymessage          Recovery
+osdevice                ramdisk=[F:]\Recovery\WindowsRE\Winre.wim,{1a5564fc-a3c3-11ef-9986-0213ef1a3dbd}
+systemroot              \windows
+nx                      OptIn
+bootmenupolicy          Standard
+winpe                   Yes
+
+Cargador de arranque de Windows
+-----------------------------
+Identificador           {4878e91c-a3cb-11ef-8be2-0013ef2a3dbe}
+device                  partition=F:
+path                    \Windows\system32\winload.efi
+description             Windows 10 IoTEnterprise
+locale                  es-MX
+inherit                 {bootloadersettings}
+recoverysequence        {1a5564fb-a3c3-11ef-9986-0213ef1a3dbd}
+displaymessageoverride  Recovery
+recoveryenabled         Yes
+isolatedcontext         Yes
+allowedinmemorysettings 0x15000075
+osdevice                partition=F:
+systemroot              \Windows
+resumeobject            {4878e91b-a3cb-11ef-8be2-0013ef2a3dbe}
+nx                      OptIn
+bootmenupolicy          Standard
+
+Cargador de arranque de Windows
+-----------------------------
+Identificador           {default}
+device                  partition=C:
+path                    \Windows\system32\winload.efi
+description             Windows 10 IoTEnterprise
+locale                  es-MX
+inherit                 {bootloadersettings}
+isolatedcontext         Yes
+allowedinmemorysettings 0x15000075
+osdevice                partition=C:
+systemroot              \Windows
+resumeobject            {86e7d008-a987-11ef-9a05-00e04cd1049f}
+nx                      OptIn
+bootmenupolicy          Standard
+
+Cargador de arranque de Windows
+-----------------------------
+Identificador           {fa8f10d8-a98c-11ef-8bd1-0013ef2a3dbe}
+device                  ramdisk=[C:]\Recovery\WindowsRE\Winre.wim,{fa8f10d9-a98c-11ef-8bd1-0013ef2a3dbe}
+path                    \windows\system32\winload.efi
+description             Windows Recovery Environment
+locale                  en-US
+inherit                 {bootloadersettings}
+displaymessage          Recovery
+osdevice                ramdisk=[C:]\Recovery\WindowsRE\Winre.wim,{fa8f10d9-a98c-11ef-8bd1-0013ef2a3dbe}
+systemroot              \windows
+nx                      OptIn
+bootmenupolicy          Standard
+winpe                   Yes
+
+Reanudar tras hibernaci¢n
+-------------------------
+Identificador           {2a0c2497-a98a-11ef-b3d4-00e04cd1049f}
+device                  partition=C:
+path                    \Windows\system32\winresume.efi
+description             Windows Resume Application
+locale                  en-US
+inherit                 {resumeloadersettings}
+recoverysequence        {fa8f10d8-a98c-11ef-8bd1-0013ef2a3dbe}
+recoveryenabled         Yes
+isolatedcontext         Yes
+allowedinmemorysettings 0x15000075
+filedevice              partition=C:
+filepath                \hiberfil.sys
+bootmenupolicy          Standard
+debugoptionenabled      No
+
+Reanudar tras hibernaci¢n
+-------------------------
+Identificador           {4878e91b-a3cb-11ef-8be2-0013ef2a3dbe}
+device                  partition=F:
+path                    \Windows\system32\winresume.efi
+description             Windows Resume Application
+locale                  es-MX
+inherit                 {resumeloadersettings}
+recoverysequence        {1a5564fb-a3c3-11ef-9986-0213ef1a3dbd}
+recoveryenabled         Yes
+isolatedcontext         Yes
+allowedinmemorysettings 0x15000075
+filedevice              partition=F:
+filepath                \hiberfil.sys
+bootmenupolicy          Standard
+debugoptionenabled      No
+
+Reanudar tras hibernaci¢n
+-------------------------
+Identificador           {86e7d008-a987-11ef-9a05-00e04cd1049f}
+device                  partition=C:
+path                    \Windows\system32\winresume.efi
+description             Windows Resume Application
+locale                  es-MX
+inherit                 {resumeloadersettings}
+isolatedcontext         Yes
+allowedinmemorysettings 0x15000075
+filepath                \hiberfil.sys
+bootmenupolicy          Standard
+
+Herramienta de comprobaci¢n de memoria de Windows
+-------------------------------------------------
+Identificador           {memdiag}
+device                  partition=Z:
+path                    \EFI\Microsoft\Boot\memtest.efi
+description             Herramienta de diagn¢stico de memoria de Windows
+locale                  es-MX
+inherit                 {globalsettings}
+badmemoryaccess         Yes
+
+Configuraci¢n de EMS
+--------------------
+Identificador           {emssettings}
+bootems                 No
+
+Configuraci¢n del depurador
+---------------------------
+Identificador           {dbgsettings}
+debugtype               Local
+
+Defectos de RAM
+---------------
+Identificador           {badmemory}
+
+Configuraci¢n global
+--------------------
+Identificador           {globalsettings}
+inherit                 {dbgsettings}
+                        {emssettings}
+                        {badmemory}
+
+Configuraci¢n del cargador de arranque
+------------------------------------
+Identificador           {bootloadersettings}
+inherit                 {globalsettings}
+                        {hypervisorsettings}
+
+Configuraci¢n de hipervisor
+-------------------
+Identificador           {hypervisorsettings}
+hypervisordebugtype     Serial
+hypervisordebugport     1
+hypervisorbaudrate      115200
+
+Reanudar la configuraci¢n del cargador
+--------------------------------------
+Identificador           {resumeloadersettings}
+inherit                 {globalsettings}
+
+Opciones de dispositivo
+-----------------------
+Identificador           {1a5564fc-a3c3-11ef-9986-0213ef1a3dbd}
+description             Windows Recovery
+ramdisksdidevice        partition=F:
+ramdisksdipath          \Recovery\WindowsRE\boot.sdi
+
+Opciones de dispositivo
+-----------------------
+Identificador           {fa8f10d9-a98c-11ef-8bd1-0013ef2a3dbe}
+description             Windows Recovery
+ramdisksdidevice        partition=C:
+ramdisksdipath          \Recovery\WindowsRE\boot.sdi
+
+Updating boot code with bootsect.exe
+bootsect version: 10.0.18362.1 (WinBuild.160101.0800)
+bootsect cmdline: /nt60 Z: /mbr
+bootsect Return : 0
+
+Se actualizar n los vol£menes de destino con el c¢digo de arranque compatible BOOTMGR.
+
+Z: (\\?\Volume{e4402860-fee6-01d7-3010-207273ffeb00})
+
+    Se actualiz¢ correctamente el c¢digo de arranque del sistema de
+    archivos FAT32.
+
+\??\PhysicalDrive0
+
+    El c¢digo de arranque est  actualizado £nicamente en discos
+    con particiones MBR. En este disco se usa un esquema de particiones
+    distinto.
+Se actualiz¢ correctamente el c¢digo de arranque en todos los vol£menes de destino.
+
+
+Bootmgr version: 10.0.19041.4522 (WinBuild.160101.0800)
+
+Updating BCD store took: 0 sec
+Updating boot code took: 0 sec
+
+Final PBR:
+
+0000	eb 58 90 4d 53 44 4f 53  35 2e 30 00 02 01 fe 13   .X.MSDOS5.0.....
+0010	02 00 00 00 00 f8 00 00  3f 00 ff 00 00 08 00 00   ........?.......
+0020	00 20 03 00 01 06 00 00  00 00 00 00 02 00 00 00   . ..............
+0030	01 00 06 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+0040	80 00 29 ed 4d 57 e6 4e  4f 20 4e 41 4d 45 20 20   ..).MW.NO NAME  
+0050	20 20 46 41 54 33 32 20  20 20 33 c9 8e d1 bc f4     FAT32   3.....
+0060	7b 8e c1 8e d9 bd 00 7c  88 56 40 88 4e 02 8a 56   {......|.V@.N..V
+0070	40 b4 41 bb aa 55 cd 13  72 10 81 fb 55 aa 75 0a   @.A..U..r...U.u.
+0080	f6 c1 01 74 05 fe 46 02  eb 2d 8a 56 40 b4 08 cd   ...t..F..-.V@...
+0090	13 73 05 b9 ff ff 8a f1  66 0f b6 c6 40 66 0f b6   .s......f...@f..
+00a0	d1 80 e2 3f f7 e2 86 cd  c0 ed 06 41 66 0f b7 c9   ...?.......Af...
+00b0	66 f7 e1 66 89 46 f8 83  7e 16 00 75 39 83 7e 2a   f..f.F..~..u9.~*
+00c0	00 77 33 66 8b 46 1c 66  83 c0 0c bb 00 80 b9 01   .w3f.F.f........
+00d0	00 e8 2c 00 e9 a8 03 a1  f8 7d 80 c4 7c 8b f0 ac   ..,......}..|...
+00e0	84 c0 74 17 3c ff 74 09  b4 0e bb 07 00 cd 10 eb   ..t.<.t.........
+00f0	ee a1 fa 7d eb e4 a1 7d  80 eb df 98 cd 16 cd 19   ...}...}........
+0100	66 60 80 7e 02 00 0f 84  20 00 66 6a 00 66 50 06   f`.~.... .fj.fP.
+0110	53 66 68 10 00 01 00 b4  42 8a 56 40 8b f4 cd 13   Sfh.....B.V@....
+0120	66 58 66 58 66 58 66 58  eb 33 66 3b 46 f8 72 03   fXfXfXfX.3f;F.r.
+0130	f9 eb 2a 66 33 d2 66 0f  b7 4e 18 66 f7 f1 fe c2   ..*f3.f..N.f....
+0140	8a ca 66 8b d0 66 c1 ea  10 f7 76 1a 86 d6 8a 56   ..f..f....v....V
+0150	40 8a e8 c0 e4 06 0a cc  b8 01 02 cd 13 66 61 0f   @............fa.
+0160	82 74 ff 81 c3 00 02 66  40 49 75 94 c3 42 4f 4f   .t.....f@Iu..BOO
+0170	54 4d 47 52 20 20 20 20  00 00 00 00 00 00 00 00   TMGR    ........
+0180	00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+0190	00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+01a0	00 00 00 00 00 00 00 00  00 00 00 00 0d 0a 44 69   ..............Di
+01b0	73 6b 20 65 72 72 6f 72  ff 0d 0a 50 72 65 73 73   sk error...Press
+01c0	20 61 6e 79 20 6b 65 79  20 74 6f 20 72 65 73 74    any key to rest
+01d0	61 72 74 0d 0a 00 00 00  00 00 00 00 00 00 00 00   art.............
+01e0	00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+01f0	00 00 00 00 00 00 00 00  ac 01 b9 01 00 00 55 aa   ..............U.
+
+
+Final MBR:
+
+0000	33 c0 8e d0 bc 00 7c fb  50 07 50 1f fc be 1b 7c   3.....|.P.P....|
+0010	bf 1b 06 50 57 b9 e5 01  f3 a4 cb bd be 07 b1 04   ...PW...........
+0020	38 6e 00 7c 09 75 13 83  c5 10 e2 f4 cd 18 8b f5   8n.|.u..........
+0030	83 c6 10 49 74 19 38 2c  74 f6 a0 b5 07 b4 07 8b   ...It.8,t.......
+0040	f0 ac 3c 00 74 fc bb 07  00 b4 0e cd 10 eb f2 88   ..<.t...........
+0050	4e 10 e8 46 00 73 2a fe  46 10 80 7e 04 0b 74 0b   N..F.s*.F..~..t.
+0060	80 7e 04 0c 74 05 a0 b6  07 75 d2 80 46 02 06 83   .~..t....u..F...
+0070	46 08 06 83 56 0a 00 e8  21 00 73 05 a0 b6 07 eb   F...V...!.s.....
+0080	bc 81 3e fe 7d 55 aa 74  0b 80 7e 10 00 74 c8 a0   ..>.}U.t..~..t..
+0090	b7 07 eb a9 8b fc 1e 57  8b f5 cb bf 05 00 8a 56   .......W.......V
+00a0	00 b4 08 cd 13 72 23 8a  c1 24 3f 98 8a de 8a fc   .....r#..$?.....
+00b0	43 f7 e3 8b d1 86 d6 b1  06 d2 ee 42 f7 e2 39 56   C..........B..9V
+00c0	0a 77 23 72 05 39 46 08  73 1c b8 01 02 bb 00 7c   .w#r.9F.s......|
+00d0	8b 4e 02 8b 56 00 cd 13  73 51 4f 74 4e 32 e4 8a   .N..V...sQOtN2..
+00e0	56 00 cd 13 eb e4 8a 56  00 60 bb aa 55 b4 41 cd   V......V.`..U.A.
+00f0	13 72 36 81 fb 55 aa 75  30 f6 c1 01 74 2b 61 60   .r6..U.u0...t+a`
+0100	6a 00 6a 00 ff 76 0a ff  76 08 6a 00 68 00 7c 6a   j.j..v..v.j.h.|j
+0110	01 6a 10 b4 42 8b f4 cd  13 61 61 73 0e 4f 74 0b   .j..B....aas.Ot.
+0120	32 e4 8a 56 00 cd 13 eb  d6 61 f9 c3 49 6e 76 61   2..V.....a..Inva
+0130	6c 69 64 20 70 61 72 74  69 74 69 6f 6e 20 74 61   lid partition ta
+0140	62 6c 65 00 45 72 72 6f  72 20 6c 6f 61 64 69 6e   ble.Error loadin
+0150	67 20 6f 70 65 72 61 74  69 6e 67 20 73 79 73 74   g operating syst
+0160	65 6d 00 4d 69 73 73 69  6e 67 20 6f 70 65 72 61   em.Missing opera
+0170	74 69 6e 67 20 73 79 73  74 65 6d 00 00 00 00 00   ting system.....
+0180	00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+0190	00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+01a0	00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+01b0	00 00 00 00 00 00 00 00  58 93 10 72 00 00 00 fe   ........X..r....
+01c0	ff ff ee fe ff ff 01 00  00 00 af 6d 70 74 00 00   ...........mpt..
+01d0	00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+01e0	00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+01f0	00 00 00 00 00 00 00 00  00 00 00 00 00 00 55 aa   ..............U.
+

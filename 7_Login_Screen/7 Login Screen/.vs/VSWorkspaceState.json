@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\LogonShell",
+    "\\LogonShell\\bin",
+    "\\LogonShell\\bin\\Debug",
+    "\\LogonShell\\obj",
+    "\\LogonShell\\obj\\Release",
+    "\\LogonShell\\obj\\x64",
+    "\\LogonShell\\obj\\x64\\Debug",
+    "\\LogonShell\\obj\\x64\\Release",
+    "\\LogonShell\\Properties",
+    "\\LogonShell\\Resources"
+  ],
+  "SelectedNode": "\\LogonShell\\Resources\\XPLogo.bmp",
+  "PreviewInSolutionExplorer": false
+}
